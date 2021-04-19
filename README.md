@@ -1,5 +1,5 @@
 # TradeMe_APITest
-Using the TradeMe Sandbox web site, the following REST API scenarios are automated using RestAssured library in Java.  
+Using the TradeMe Sandbox web site, the following REST API scenarios are automated using RestAssured library in Java. This is a maven project and the POM file contains all the required dependecies.
 
 The data to the test cases is passed through the config.properties file. This file is present under the /src/test/resources directory.
 
