@@ -22,7 +22,7 @@ This file is present under the /src/test/resources directory.
 
 ## Execution Command:
   The test case are triggered by running the following command on the project directory propompt:
-    > mvn test
+    > mvn -Dtest=Charities,CarDetails test
 
 ## Execution Results:
   The test execution results are stored under the ./target directory file under the project root directory.
